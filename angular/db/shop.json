@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": "2500",
+      "categoryId": "1",
+      "description": "Asus Zenbook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": "100",
+      "categoryId": "1",
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80"
+    },
+    {
+      "name": "IPhone 8",
+      "description": "Güzel bir telefon IPhone 8",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/375/10352775921714.jpg",
+      "price": "4500",
+      "categoryId": "2",
+      "id": "3"
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçelik no-frost",
+      "imageUrl": "https://www.arcelik.com.tr/content/dam/arcelik-tr/arcelikTurkeyProductCatalog/product-images/7295520190-391626EI/7295520190-LO2-20170724-120141.png",
+      "price": "2500",
+      "categoryId": "2",
+      "id": "4"
+    },
+    {
+      "name": "Çamaşır Makinası",
+      "description": "Bosch Çamaşır Makinası",
+      "imageUrl": "https://st1.myideasoft.com/idea/ey/99/myassets/products/281/55.jpg?revision=1577443416",
+      "price": "5000",
+      "categoryId": "2",
+      "id": "0DZFL2a"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Bilgisayar"
+    },
+    {
+      "id": "2",
+      "name": "Elektronik"
+    }
+  ]
+}
